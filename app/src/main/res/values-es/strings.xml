@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_world">¡Hola Mundo!</string>
+    <string name="button_1" translatable="false">Botón 1</string>
+    <string name="button_2" translatable="false">Botón 2</string>
+</resources>
